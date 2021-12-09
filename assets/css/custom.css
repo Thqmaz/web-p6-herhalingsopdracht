@@ -1,0 +1,16 @@
+body {
+  background-image: url("../../assets/img/bg-pattern.png");
+  background-repeat: repeat;
+}
+
+.col-md-3 {
+  background-color: red;
+}
+
+.box {
+  padding: 0 5px 0 5px;
+}
+
+.text-green {
+  color: #709b1d;
+}
